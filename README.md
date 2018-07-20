@@ -1,4 +1,4 @@
-# build-a-chatbot
+# Build-a-chatbot
 
 
 [Transfer Learning For Text](https://blogs.technet.microsoft.com/machinelearning/2018/04/25/transfer-learning-for-text-using-deep-learning-virtual-machine-dlvm/)
@@ -10,3 +10,8 @@
 # Design
 
 [IOS](https://developer.apple.com/design/human-interface-guidelines/ios/app-architecture/requesting-permission)
+
+# Launch
+
+[product-hunt](https://blog.producthunt.com/how-to-launch-on-product-hunt-7c1843e06399)
+[Elevator Pitch](https://strategypeak.com/elevator-pitch-examples/)
