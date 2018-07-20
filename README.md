@@ -1,5 +1,9 @@
 # Build-a-chatbot
 
+# Planning
+[5 Day Sprint](/SPRINT_kickoff_slides.pdf)
+
+# News
 
 [Transfer Learning For Text](https://blogs.technet.microsoft.com/machinelearning/2018/04/25/transfer-learning-for-text-using-deep-learning-virtual-machine-dlvm/)
 
@@ -14,4 +18,5 @@
 # Launch
 
 [Product-hunt](https://blog.producthunt.com/how-to-launch-on-product-hunt-7c1843e06399)   
+
 [Elevator Pitch](https://strategypeak.com/elevator-pitch-examples/)
