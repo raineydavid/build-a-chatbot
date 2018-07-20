@@ -13,5 +13,5 @@
 
 # Launch
 
-[product-hunt](https://blog.producthunt.com/how-to-launch-on-product-hunt-7c1843e06399)
+[Product-hunt](https://blog.producthunt.com/how-to-launch-on-product-hunt-7c1843e06399)   
 [Elevator Pitch](https://strategypeak.com/elevator-pitch-examples/)
