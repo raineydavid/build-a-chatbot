@@ -20,3 +20,6 @@
 [Product-hunt](https://blog.producthunt.com/how-to-launch-on-product-hunt-7c1843e06399)   
 
 [Elevator Pitch](https://strategypeak.com/elevator-pitch-examples/)
+
+# Raising Capital
+[How To Raise Capital For The First Time](https://web.archive.org/web/20180721162634/https://medium.com/swlh/raising-capital-for-the-first-time-heres-how-to-do-it-successfully-c07ccbb4196)
