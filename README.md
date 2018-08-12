@@ -1,7 +1,7 @@
 # Build-a-chatbot
 
 # Planning
-[5 Day Sprint](/SPRINT_kickoff_slides.pdf)
+[5 Day Sprint](/SPRINT_kickoff_slides.pdf)  
 [Questions and Answers](https://web.archive.org/web/20180812112711/https://botpublication.com/botxperts-asked-with-seth-louey-of-botlist-6305b7ac79b2?gi=1d3ab85a2fff)
 
 # News
